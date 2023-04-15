@@ -7,12 +7,9 @@ as the challenge is virtually impossible
 
 Here is the challenge... get 1,000,000,000 cookies...
 
-
 Not that hard, right?
 
-
 But I am not going to spoil the experience...
-
 
 So get ready to play the *impossible cookie*!!!
 
