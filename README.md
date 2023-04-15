@@ -1,5 +1,6 @@
 # Cookie-Clicker-Source-Code
-Welcome Fellow Cookie Clicker Fans
+**Welcome Fellow Cookie Clicker Fans**
+
 
 
 Any Clicker intrested in playing this modified version of the game will be warned,
@@ -12,6 +13,13 @@ Not that hard, right?
 But I am not going to spoil the experience...
 
 So get ready to play the *impossible cookie*!!!
+
+
+
+
+
+
+
 
 P.S If you want an even more difficult challenge, do it without reloading the browser
 
