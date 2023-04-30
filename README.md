@@ -1,7 +1,7 @@
 # Cookie-Clicker-Source-Code
 **Welcome Fellow Cookie Clicker Fans**
 
-
+Check out a demonstration of the game here: https://youtube.com/shorts/FVE3LgXNMUA
 
 Any Clicker intrested in playing this modified version of the game will be warned,
 as the challenge is virtually impossible
